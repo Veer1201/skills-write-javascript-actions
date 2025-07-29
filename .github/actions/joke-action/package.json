@@ -1,0 +1,20 @@
+{
+  "name": "joke-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/exec": "^1.1.1",
+    "@actions/glob": "^0.5.0",
+    "@actions/http-client": "^2.2.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
